@@ -14,16 +14,18 @@ Here are some ideas to get you started:
 -->
 <h3 align="center">A passionate programmer with cross-trained skills</h3>
 
-- 🔭 I’m currently working on **c++ and python**
+- 🔭 I’m currently working on **c++ and react** and scripting with **python**
 - 🌱 I’m currently learning **data structures**
 - 👯 I’m looking to collaborate on **freelance projects**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact **I think i am an ambivert**
 - 📫 How to reach me **be41zehe@gmail.com**
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/16264345" target="blank"><img align="center" src="https://raw.githubusercontent.com/codemaker2015/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16264345" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mvr1995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kkno" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Backend:</h3>
