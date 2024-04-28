@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://stackoverflow.com/users/16264345" target="blank"><img align="center" src="https://raw.githubusercontent.com/codemaker2015/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16264345" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mvr1995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kkno" height="30" width="40" /></a>
+<a href="https://gitlab.com/be41zehe" target="blank"><img align="center" src="https://images.ctfassets.net/xz1dnu24egyd/1IRkfXmxo8VP2RAE5jiS1Q/ea2086675d87911b0ce2d34c354b3711/gitlab-logo-500.png" alt="kkno" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Backend:</h3>
