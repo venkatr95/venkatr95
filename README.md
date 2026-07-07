@@ -29,6 +29,28 @@ Here are some ideas to get you started:
 <a href="https://gitlab.com/be41zehe" target="blank"><img align="center" src="https://images.ctfassets.net/xz1dnu24egyd/1IRkfXmxo8VP2RAE5jiS1Q/ea2086675d87911b0ce2d34c354b3711/gitlab-logo-500.png" alt="kkno" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Product & Project Management:</h3>
+<p align="left">
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/jira/0052CC" alt="jira" width="40" height="40"/>
+  </a>
+  <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/confluence/172B4D" alt="confluence" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/figma/F24E1E" alt="figma" width="40" height="40"/>
+  </a>
+  <a href="https://miro.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/miro/FFD02F" alt="miro" width="40" height="40"/>
+  </a>
+  <a href="https://www.notion.so/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/notion/000000" alt="notion" width="40" height="40"/>
+  </a>
+  <a href="https://n8n.io/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" width="40" height="40"/>
+  </a>
+</p>
+
 <h3 align="left">Backend:</h3>
 <p align="left"><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> </p>
 
